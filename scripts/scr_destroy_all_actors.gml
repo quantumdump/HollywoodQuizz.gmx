@@ -1,0 +1,1 @@
+///scr_destroy_all_actors()
